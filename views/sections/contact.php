@@ -9,7 +9,7 @@
     <hr>
     <div id="profile-flex" class="d-flex flex-row align-items-center flex-wrap">
         <div class="p-2">
-        <p>I truly hope you enjoyed perusing through my interactive resume. If you wish to see the code behind this experience, you can find it on GitHub here.</p>
+        <p>I truly hope you enjoyed perusing through my interactive resume. If you wish to see the code behind this experience, you can find it on <a href="https://github.com/EricTurner3/Resume2019" target="_blank">GitHub here.</a></p>
         <p>If you would like to share thoughts, feedback, or you think your organization and I would be a fantastic fit, please contact me at one of the outlets below! </p>  
         </div>
    <br>
