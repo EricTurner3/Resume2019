@@ -1,0 +1,11 @@
+#navbar{
+    position: fixed;
+    width: 100%;
+    z-index: 1;
+    transition: top 1s;
+}
+.navbar-brand{
+    font-family: 'Nunito', sans-serif;
+    font-size: 1.8rem;
+    color:#0d50aa !important;
+}
